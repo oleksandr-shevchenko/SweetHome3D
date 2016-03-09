@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SweetHome3D._3DViewOfTheRoom" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAQQAACAABgQAQACBKsACAAAQAABgAAAAAQBBAAA=</HashCode>
+      <FileName>3DViewOfTheRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.AboutBox" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.AddRoomForm" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAARAAAACAAAACAAgKBAAABGEAABBCACA=</HashCode>
+      <FileName>AddRoomForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.ChangeTheFurniture" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAEAACAAATAAAACIAAACAAAKBAACBGAAAABAAiA=</HashCode>
+      <FileName>ChangeTheFurniture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.ShelfForShoes" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Furniture\ShelfForShoes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.MyForm" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UwAIAACApKACBAEDaEWgFFoCBA0gAAIxEFAAEQKAAAI=</HashCode>
+      <FileName>MyForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Plan" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Plan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Program" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Room" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAABABAIAAAQIQFAEAEQhQACEIAQIAAAAAAIBAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Furniture.Chair" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Furniture\Chair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Furniture.Door" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Furniture\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Furniture.FurnitureObject" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAABAAAAgQAQBIAAEQCAAAEAhAgAEIQIABAAAA=</HashCode>
+      <FileName>Furniture\FurnitureObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Furniture.Sofa" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Furniture\Sofa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Furniture.Table" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Furniture\Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SweetHome3D.Furniture.Window" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Furniture\Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

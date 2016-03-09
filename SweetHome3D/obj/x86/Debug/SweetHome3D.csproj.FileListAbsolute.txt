@@ -1,0 +1,44 @@
+E:\Projects\SweetHome3D\SweetHome3D\bin\Debug\SweetHome3D.exe
+E:\Projects\SweetHome3D\SweetHome3D\bin\Debug\SweetHome3D.pdb
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.Properties.Resources.resources
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.exe
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.pdb
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.MyForm.resources
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.AddRoomForm.resources
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D._3DViewOfTheRoom.resources
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.AboutBox.resources
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.ChangeTheFurniture.resources
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.read.312.tlog
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.write.328.tlog
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.read.329.tlog
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.write.474.tlog
+E:\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\GenerateResource.read.500.tlog
+c:\Users\Alexandr\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.exe
+c:\Users\Alexandr\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.pdb
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.exe
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.pdb
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.csprojResolveAssemblyReference.cache
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D._3DViewOfTheRoom.resources
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.AboutBox.resources
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.AddRoomForm.resources
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.ChangeTheFurniture.resources
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.MyForm.resources
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.Properties.Resources.resources
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.csproj.GenerateResource.Cache
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\bin\Debug\SweetHome3D.exe
+c:\Users\Alexandr\Shevchenko\Shevchenko\Projects\SweetHome3D\SweetHome3D\bin\Debug\SweetHome3D.pdb
+c:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.exe
+c:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.pdb
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D._3DViewOfTheRoom.resources
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.AboutBox.resources
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.AddRoomForm.resources
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.ChangeTheFurniture.resources
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.MyForm.resources
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.Properties.Resources.resources
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\obj\x86\Debug\SweetHome3D.csproj.GenerateResource.Cache
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\bin\Debug\SweetHome3D.exe
+C:\Users\Alexandr\Shevchenko\Time to Work\MyProjects\SweetHome3D\SweetHome3D\bin\Debug\SweetHome3D.pdb
